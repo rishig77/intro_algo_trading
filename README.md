@@ -1,6 +1,6 @@
 # intro_algo_trading
 
-**Project Title:** Algorithmic Trading in Python: A Comprehensive Guide (Chapter 1)
+**Project Title:** Introduction to Algorithmic Trading in Python: A Guide (Part 1)
 
 **Project Description:** This project is a 33-chapter series focused on algorithmic trading, starting with foundational concepts and progressing to more complex topics. This chapter introduces core concepts like market microstructure, order book dynamics, and data analysis techniques for building and testing algorithmic trading strategies.
 
